@@ -1,0 +1,59 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo-box{
+    text-align: center;
+}
+.logo-img{
+    width: 130px;
+    height: 80px;
+    object-fit: cover;
+}
+.margin-text{
+    margin: 10px;
+}
+.grey-box{
+    background-color: grey;
+    width: 100%;
+    padding: 25px;
+
+}
+.grey-img{
+    width: 450px;
+    object-fit: cover;
+}
+.title-text{
+    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+.eye{
+    border-radius: 50%;
+}
+.title-size{
+    font-size: 40px;
+}
+.cars{
+    height: 250px;
+    width: 19%;
+    object-fit: cover;
+}
+.fly-box{
+    background-color: grey;
+    width: 30%;
+    padding: 20px;
+}
+.fly{
+    text-align: center;
+}
+.fly-img{
+    width: 450px;
+    object-fit: cover;
+}
+.anonymous{
+    font-family: 'Anonymous Pro', sans-serif;
+}
+.bold-text{
+    font-weight: bold;
+}
